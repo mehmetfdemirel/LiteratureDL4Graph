@@ -707,7 +707,7 @@ Graph Neural Networks
 
 `N-Gram Graph: A Simple Unsupervised Representation for Molecules
 <https://arxiv.org/pdf/1806.09206.pdf>`_
-    | :authors:`Shengchao Liu, Thevaa Chandereng, Yingyu Liang`
+    | :authors:`Shengchao Liu, Mehmet F. Demirel, Yingyu Liang`
     | :venue:`NeurIPS 2019`
 
 `DeepGCNs: Can GCNs Go as Deep as CNNs?
